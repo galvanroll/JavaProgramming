@@ -1,6 +1,6 @@
 package day38_Inheritance.carTask;
 
-public class Car {
+public class Car extends Toyota{
 
     public String brand, model;
     public int year;
